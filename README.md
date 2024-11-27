@@ -19,7 +19,7 @@ The librarian should be able to search for a book by its title or ID. If the boo
 Implement a search algorithm (like binary search if the list of books is sorted, or a simple linear search) to find a book.
 
 ## Issue a Book:
-When a book is issued, change its status from available to issued and store the details of the student to whom the book has been issued.
+When a book is issued, change its status from available to issued and store the student's details to whom the book has been issued.
 Consider using a stack or queue structure to manage book issues.
 
 ## Return a Book:
